@@ -8,6 +8,7 @@ bash train.sh
 3. Đánh giá mô hình:
 - với tập dữ liệu mới: chạy file extract_features.sh để trích xuất đặc trưng
 - Với file wav bất kì: bash test_wav.sh
+
 Note: 
 - Các tham số để chạy file .sh đều được hướng dẫn chi tiết khi chạy.
 - Để thay đổi các tham số đặc trưng: set up trong file scr/config.py
